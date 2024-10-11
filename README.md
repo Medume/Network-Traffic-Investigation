@@ -67,6 +67,16 @@ Opening this image will let you see the image the user downloaded:  <br/>
 <br />
 <h4 align="center">
 Here are the rest of the jpg images the user downloaded:  <br/>
+ 
+<br />
+
+[Bankcard JPG](https://ibb.co/TK9QM4w) 
+<br />
+[ATM Image JPG](https://ibb.co/JpDC8tw) 
+<br />
+[ANZ1 JPG](https://ibb.co/G7GmN37) 
+<br />
+[ANZ2 JPG](https://ibb.co/PTn0PW0)
 <br/>
 </p>
 
