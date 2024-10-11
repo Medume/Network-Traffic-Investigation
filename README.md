@@ -60,7 +60,7 @@ Save the file as a jpg image:  <br/>
 <br />
 <br />
 <h4 align="center">
-Opening this image will let you see the image the user downloaded:  <br/>
+Opening this image in the Paint app, for example, will let you see the image the user downloaded:  <br/>
 <br/>
 <img src="https://github.com/user-attachments/assets/0b05f5bc-7e51-4fc4-a00c-951726859688" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
